@@ -4,4 +4,6 @@
 
 
 ## Outline:
-- Functional programming using Scala 
+- [Functional programming using Scala](./Functional-Programming/)
+    - [Lecture-2](./Functional-Programming/Lecture-2/)
+    - [Lecture-3](./Functional-Programming/Lecture-3/)
