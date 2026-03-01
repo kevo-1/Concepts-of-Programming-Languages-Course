@@ -1,6 +1,6 @@
 import scala.io.StdIn.readFloat
 
-object main {
+object App2 {
 
     def main(args: Array[String]): Unit = {
         print("Enter your first number: ")
