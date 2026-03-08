@@ -15,7 +15,7 @@ class Employee(val id: Int, var name: String) {
     }
 }
 
-object Main {
+object App5 {
     def main(args: Array[String]): Unit = {
         var employee = new Employee(101, "Alice")
         employee.baseSalary = 5000.0
